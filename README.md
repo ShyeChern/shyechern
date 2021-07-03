@@ -1,5 +1,5 @@
 ### Hi there, I am Shye Chern 👋
-###### You can view more about me at https://shyechern.herokuapp.com/ or https://shyechern.com/
+###### You can view more about me at https://shyechern.com/
 
 <!--
 **ShyeChern/shyechern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
